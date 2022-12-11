@@ -48,6 +48,7 @@ function App() {
   }
   return (
     <>
+    <div className='title'> Enter your city to track weather </div>
     <form className="weather-form" onSubmit={handleSubmit}>
       <input type="text" 
       placeholder="City" 

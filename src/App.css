@@ -1,4 +1,11 @@
-.weather-form, .show-detail {
+
+.title {
+    font-weight: bolder;
+    color:blueviolet;
+
+}
+.title, .weather-form, .show-detail {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     margin-top: 40px;
 }
